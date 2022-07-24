@@ -1,0 +1,28 @@
+[
+    {
+        "nombre": "Juan",
+        "apellidoPaterno": "Perez",
+        "apellidoMaterno": "Lopez",
+        "fechaNac": "07/07/1997",
+        "sexo": "masculino",
+        "diagnostico": "convulsion",
+        "ta": "120/70",
+        "fc": "86",
+        "fr": "18",
+        "spo2": "98",
+        "notaEvolucion": "Paciente estable"
+    },
+    {
+        "nombre": "Maria",
+        "apellidoPaterno": "Hernandez",
+        "apellidoMaterno": "juarez",
+        "fechaNac": "02/03/1991",
+        "sexo": "femenino",
+        "diagnostico": "gripe",
+        "ta": "100/70",
+        "fc": "78",
+        "fr": "16",
+        "spo2": "96",
+        "notaEvolucion": "Paciente estable"
+    }
+]
